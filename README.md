@@ -34,7 +34,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
 # Support
    Consider a donation to keep this project alive and for the countless hours of works and testing :)
    
-  **PayPal :** https://paypal.me/youtubeviewerbot1
+  **PayPal :** https://paypal.me/youtubeviewerbot
   
   **Bitcoin :** `bc1q5knwa6xgvrkgkgl8f9c5wyws4ddp58pe2r79kl`
 
