@@ -29,7 +29,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
 
 **Disclaimer:** This has been developed for educational purposes only. Any action you take using this script is strictly at your own risk. I will not be liable for any losses or damages you face using this script.
 
-**Cons:** There will be some view drop always. 
+**Cons:** There will be some views drop always. 
 
 # Support
    Consider a donation to keep this project alive and for the countless hours of work and testing :)
