@@ -22,7 +22,7 @@
                             
 # Windows Download
 
-[Download For Windows](https://github.com/youtubeviewerbot/YouTube-Viewer/releases/download/1.7.6/YouTube-Viewer-1.7.6.zip)
+[Download For Windows](https://github.com/youtubeviewerbot/YouTube-Viewer/releases/download/1.8.0/YouTube-Viewer_win_1.8.0.zip)
 
 # YouTube Viewer
 Simple program to increase YouTube views written in Python. Works with live stream too.
